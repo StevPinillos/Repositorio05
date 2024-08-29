@@ -1,6 +1,4 @@
 nombre: Steven Salgado
-correo: yeralstevenpinillosalgado@[D[D[D[D[D[D[Dsalgado@gmail.com
+correo: yeralstevenpinillossalgado@gmail.com
 
--...Archivo creado Localmente
-
-git status
+-...Archivo creado Localmente.
